@@ -547,17 +547,19 @@ store.subscribe(handleStateChange);
 const WISH_MESSAGES = [
 	"Năm mới an khang thịnh vượng",
 	"Năm mới bình an",
-	"Chúc mọi điều ước của bạn đều trở thành hiện thực ✨",
-	"Chúc gia đình bạn luôn bình an và hạnh phúc ❤️",
-	"Chúc bạn luôn khỏe mạnh và tràn đầy năng lượng 💪",
-	"Chúc năm mới thêm tuổi thêm cao 🚀",
-	"Chúc bạn luôn mỉm cười và yêu đời mỗi ngày 😊",
-	"Chúc bạn gặp nhiều may mắn và niềm vui 🎉",
-	"Chúc bạn luôn mỉm cười và yêu đời mỗi ngày 😊",
-	"chúc cậu thành công trên con đường hc tập",
+	"Chúc mọi điều ước của Ý đều trở thành hiện thực ✨",
+	"Chúc gia đình Ý luôn bình an và hạnh phúc ❤️",
+	"Chúc Ý luôn khỏe mạnh và tràn đầy năng lượng 💪",
+	"Chúc Ý năm mới thêm tuổi thêm cao 🚀",
+	"Chúc Ý luôn mỉm cười và yêu đời mỗi ngày 😊",
+	"Chúc Ý gặp nhiều may mắn và niềm vui 🎉",
+	"Chúc Ý luôn mỉm cười và yêu đời mỗi ngày 😊",
+	"chúc Ý thành công trên con đường hc tập",
 	"bỏ qua phiền muộn, đón chào năm mới",
 	"HAPPY NEW YEAR",
-	"Chúc bạn luôn mỉm cười và yêu đời mỗi ngày 😊",
+	"Chúc Ý luôn mỉm cười và yêu đời mỗi ngày 😊",
+	"VÀ TUI THÍCH NHƯ Ý 😊",
+	"chúc Ý tiền nhiều như lá, tình đẹp như hoa 😊",
 ];
 
 // Sinh 1 câu chúc bay lên
